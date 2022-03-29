@@ -51,23 +51,21 @@ a:hover {
   margin: auto;
 }
 .top-cloud {
- position: absolute;
+  position: absolute;
   left: 40px;
   top: 50px;
   padding-left: 30px;
 }
 .bottom-cloud {
-   position: absolute;
+  position: absolute;
   right: 50px;
   padding-left: 30px;
- 
 }
 
 .middle-container {
-   margin: 100px 0;
+  margin: 100px 0;
   background-color: #e4f9f5;
   padding-bottom: 50px;
- 
 }
 .mountain {
   max-width: 100%;
